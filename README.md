@@ -58,7 +58,7 @@
 
 
 <div align="center">
-  alt="7oSkaaa" /></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaasco&theme=algolia" alt="7oSkaaa" /></p>
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaasco&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vaasco" height="192px"/>
   <br/>
