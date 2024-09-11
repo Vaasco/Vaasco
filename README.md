@@ -1,4 +1,4 @@
-## 👋 Hello! I’m Vasco Branco
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Vasco Branco!</h1>
 
 # 🙋‍♂️ About me
 
