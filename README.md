@@ -47,5 +47,5 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%2319AAB6.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-
+![Assembly](https://img.shields.io/badge/Assembly-Programming-blue)
 *Note: These are all technologies that I've used at some point and have some skill in. My mastery in them may vary*
