@@ -1,4 +1,4 @@
-## 👋 Hello! I’m Vasco Branco<br> Welcome to my GitHub profile!<br> I’m a passionate Software Engineer, my journey in technology is driven by curiosity and a commitment to creating impactful solutions.
+## 👋 Hello! I’m Vasco Branco
 
 # 🙋‍♂️ About me
 
