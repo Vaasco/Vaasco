@@ -60,9 +60,7 @@
 <div align="center">
   alt="7oSkaaa" /></p>
   <p align="center">
-    <img alt="Vaasco's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vaasco&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaasco&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vaasco" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaasco&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Vaasco" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
