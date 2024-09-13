@@ -11,7 +11,7 @@
 * * 🔠 Learning new languages. [Duolingo](https://www.duolingo.com/) is my buddy!
 
 # 🤝 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vasco-branco-0abb5930b/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vasco-branco-0abb5930b)
 
 # Languages and Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
